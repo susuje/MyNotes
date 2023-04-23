@@ -6,12 +6,12 @@ plusBtn.addEventListener('click',()=>{
     count++;
     if(count % 2 !==0){
         plusBtn.textContent = '=';
-        ul.style.setProperty('height','40vh');
+        ul.style.setProperty('height','35vh');
 
     }
     else {
         plusBtn.textContent = '+';
-        ul.style.setProperty('height','70vh');
+        ul.style.setProperty('height','65vh');
     }
 })
 ///////////////////////////////////////////

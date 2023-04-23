@@ -233,7 +233,7 @@ form button {
 .memo-list {
     overflow: auto; 
     margin-top: 15px;
-    height: 70vh;
+    height: 65vh;
     /* 요소가 넘치면 그때 스크롤바를 생성 */
     
 }
