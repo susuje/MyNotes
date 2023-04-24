@@ -7,7 +7,7 @@ a {
     text-decoration: none;
 }
 ul {
-    padding: 20px 10px;
+    padding: 20px 0px;
 }
 li{
     list-style: none;
@@ -243,9 +243,9 @@ form button {
 }
 
 .memo-list::-webkit-scrollbar-thumb {
-    height: 50%;
+    height: 70%;
     background: white;
     border-radius: 10px;
     background-clip: padding-box;
-    border: 1px solid transparent;
+    border: 5px solid transparent;
 }
